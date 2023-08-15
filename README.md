@@ -1,0 +1,3 @@
+Um to do simples, mas com diversos planos para o futuro... 
+No geral planejo fazer uma lista de filmes ou séries o que for
+para assistir com opções de concluido, deletar, alterar, filtros, nota entre outras opções.
